@@ -1,0 +1,88 @@
+#my name information
+
+name = "luka"
+
+surname = "mchedlishvili"
+
+#my hobbies
+
+hobby = "skatebording"
+
+hobby2 = "cycling"
+
+#favorite objects in school
+
+object = "math"
+
+objec2 = "english"
+
+#hatted objects in school
+
+hated_object = "russan"
+
+hated_object2 = "music"
+
+#favorite food
+
+favorite_food = "mashe_potato"
+
+favorite_food2 = "katleti"
+
+#favorite color
+
+color = "green"
+
+color2 = "red"
+
+#favorie music
+
+favorite_music = "grandson - Blood // Water"
+
+favorite_music2 = "counting stars"
+
+#favorie_anime
+
+favorie_anime = "one punch man"
+
+favorie_anime2 = "one piece"
+
+# starting printing
+
+print(name)
+
+print(surname)
+
+print(hobby)
+
+print(hobby2)
+
+print(object)
+
+print(objec2)
+
+print(hated_object)
+
+print(hated_object2)
+
+print(favorite_food)
+
+print(favorite_food2)
+
+print(color)
+
+print(color2)
+
+print(favorite_music)
+
+print(favorite_music2)
+
+print(favorie_anime)
+
+print(favorie_anime2)
+
+
+
+
+
+
+
