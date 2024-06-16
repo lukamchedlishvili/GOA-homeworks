@@ -4,11 +4,11 @@ number_2 = 40
 
 print(number_1 + number_2)
 
-area = int(input)("enter the width of the rectangle")
+width = int(input("enter the width of the rectangle"))
 
-leight = int(input)("enter the lenght of the rectangle")
+lenght = int(input("enter the lenght of the rectangle"))
 
-print(area*leight)
+print(width*lenght)
 
 print("what is width of cube?")
 
